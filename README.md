@@ -1,2 +1,3 @@
 # uncc-projects
-a culmination of coursework/projects as an undergrad at UNCC
+a collection of coursework/projects as an undergrad at UNCC
+all in one repository 
